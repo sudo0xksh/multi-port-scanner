@@ -57,7 +57,7 @@ targets.txt
 example.com  
 
 Then run  
-python port_scan.py targets.txt -p 22
+python multi-portscanner.py targets.txt -p 22
 
 The scanner will check the same port on every target.
 
